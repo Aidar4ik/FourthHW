@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string-array name="cities">
+        <item>Bishkek</item>
+        <item>Osh</item>
+        <item>Jalal-Abad</item>
+        <item>Talas</item>
+        <item>Naryn</item>
+        <item>Balykchy</item>
+        <item>Karakol</item>
+        <item>Batken</item>
+    </string-array>
+</resources>
+
